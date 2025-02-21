@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../beats"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hoca"
+	}
+}
